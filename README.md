@@ -8,9 +8,9 @@
 
 ## Content
 
-- [Installation](https://github.com/public-broadcasting/etablissement-de-radiodiffusion-socioculturelle-du-grand-duche-de-luxembourg-community-edition-for-sonos/wiki#installation)
-- [Troubleshooting](https://github.com/public-broadcasting/etablissement-de-radiodiffusion-socioculturelle-du-grand-duche-de-luxembourg-community-edition-for-sonos/wiki#troubleshooting)
-- [Frequently Asked Questions](https://github.com/public-broadcasting/etablissement-de-radiodiffusion-socioculturelle-du-grand-duche-de-luxembourg-community-edition-for-sonos/wiki#frequently-asked-questions)
+- [Installation](https://github.com/public-broadcasting/etablissement-de-radiodiffusion-socioculturelle-du-grand-duche-de-luxembourg-community-edition-for-s/wiki#installation)
+- [Troubleshooting](https://github.com/public-broadcasting/etablissement-de-radiodiffusion-socioculturelle-du-grand-duche-de-luxembourg-community-edition-for-s/wiki#troubleshooting)
+- [Frequently Asked Questions](https://github.com/public-broadcasting/etablissement-de-radiodiffusion-socioculturelle-du-grand-duche-de-luxembourg-community-edition-for-s/wiki#frequently-asked-questions)
 
 ---
 
